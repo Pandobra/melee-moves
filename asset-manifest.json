@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/melee-moves/static/css/main.d7124af5.css",
+    "main.js": "/melee-moves/static/js/main.2a8ee824.js",
+    "static/js/787.cde1ae90.chunk.js": "/melee-moves/static/js/787.cde1ae90.chunk.js",
+    "index.html": "/melee-moves/index.html",
+    "main.d7124af5.css.map": "/melee-moves/static/css/main.d7124af5.css.map",
+    "main.2a8ee824.js.map": "/melee-moves/static/js/main.2a8ee824.js.map",
+    "787.cde1ae90.chunk.js.map": "/melee-moves/static/js/787.cde1ae90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7124af5.css",
+    "static/js/main.2a8ee824.js"
+  ]
+}
